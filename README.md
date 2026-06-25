@@ -1,5 +1,4 @@
-# 🌦️ Weather Forecasting & Smart Grid Multi-Agent System
-
+# 🌦️ AEC-DT-weather-platform
 > AI-powered Smart Grid Energy Management System integrating weather forecasting, autonomous software agents, and intelligent optimization techniques for renewable energy management.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
