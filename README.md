@@ -1,5 +1,5 @@
 # 🌦️ AEC-DT-weather-platform
-> AI-powered Smart Grid Energy Management System integrating weather forecasting, autonomous software agents, and intelligent optimization techniques for renewable energy management.
+> AI-powered Smart Grid platform combining weather forecasting, renewable energy intelligence, and autonomous software agents as part of the Autonomous Energy Community Digital Twin (AEC-DT) ecosystem.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Flask](https://img.shields.io/badge/Flask-Backend-black)
